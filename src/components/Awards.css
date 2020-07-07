@@ -1,0 +1,11 @@
+.Awards_list {
+  margin-top: 100px;
+  text-align: center;
+}
+.Awards_list .title_Awards {
+  font-size: 35px;
+  font-weight: 500;
+}
+.Awards_list .Awards_paragraph {
+  margin-top: 15px;
+}
