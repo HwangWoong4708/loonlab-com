@@ -3,9 +3,25 @@
   text-align: center;
 }
 .Awards_list .title_Awards {
-  font-size: 35px;
+  font-size: 40px;
   font-weight: 500;
 }
 .Awards_list .Awards_paragraph {
   margin-top: 15px;
+  font-size: 20px;
+}
+
+.title__list .title__img {
+  display: inline-flex;
+}
+
+.title__list .title__img .title__Name {
+  font-weight: 700;
+  font-size: 20px;
+}
+figure {
+  margin: 20px;
+}
+figcaption {
+  font-size: 15px;
 }

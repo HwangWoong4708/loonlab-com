@@ -23,16 +23,16 @@ const Navigation = props => {
         <Collapse isOpen={!collapsed} navbar>
           <Nav navbar>
             <NavItem>
-              <NavLink href="/components/">WELCOME</NavLink>
+              <NavLink href="/">HOME</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/components/">LOONCUP</NavLink>
+              <NavLink href="#/LOONCUP">LOONCUP</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="">LEONACUP</NavLink>
+              <NavLink href="#/LEONACUP">LEONACUP</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="">CONTACT US</NavLink>
+              <NavLink href="#/CONTACTUS">CONTACT US</NavLink>
             </NavItem>
           </Nav>
         </Collapse>
