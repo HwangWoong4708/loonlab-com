@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/loonlab-com/precache-manifest.dcd8b6020adca8fdb51daa4d9f5a1977.js"
+  "/loonlab-com/precache-manifest.7a500e6076733dc78dee3f6a11aadd04.js"
 );
 
 self.addEventListener('message', (event) => {
