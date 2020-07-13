@@ -1,18 +1,25 @@
+@media screen and (max-width: 640px) {
+}
+@media screen and (min-width: 641px) {
+  .title__list .title__img {
+    display: inline-flex;
+  }
+}
 .Awards_list {
   margin-top: 100px;
   text-align: center;
 }
-.Awards_list .title_Awards {
+.title__list {
+  width: auto;
+}
+.title_Awards {
+  text-align: center;
   font-size: 40px;
   font-weight: 500;
 }
 .Awards_list .Awards_paragraph {
   margin-top: 15px;
   font-size: 20px;
-}
-
-.title__list .title__img {
-  display: inline-flex;
 }
 
 .title__list .title__img .title__Name {

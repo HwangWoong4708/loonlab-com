@@ -8,8 +8,12 @@
   font-size: 40px;
   font-weight: 700;
 }
+.Leonacup_paragraph {
+  margin-right: 10%;
+}
 #grid {
   display: grid;
-  grid-template-columns: 20% 80%;
+  grid-template-columns: 40% 60%;
   margin-bottom: 25px;
+  padding-bottom: 200px;
 }

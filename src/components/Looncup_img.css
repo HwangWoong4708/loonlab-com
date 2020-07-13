@@ -8,8 +8,13 @@
   font-size: 40px;
   font-weight: 700;
 }
+
+.Looncup_paragraph {
+  margin-right: 10%;
+}
 #grid {
   display: grid;
   grid-template-columns: 20% 80%;
+  padding-bottom: 200px;
   margin-bottom: 25px;
 }

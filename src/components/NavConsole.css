@@ -12,7 +12,7 @@
   border-radius: 5px;
 }
 
-@media screen and (max-width: 1090px) {
+@media screen and (max-width: 640px) {
   .nav {
     right: initial;
     top: initial;
