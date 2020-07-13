@@ -1,0 +1,29 @@
+.Contact_Us {
+  margin-left: 5%;
+}
+.Contact_name {
+  font-size: 35px;
+  margin-left: 20%;
+  font-weight: 600;
+}
+#grid {
+  margin-top: 10%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.g__Formname {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.Copyright {
+  text-align: center;
+  font-size: x-large;
+  margin-top: 60px;
+}
+.Submit_Button {
+  margin-bottom: 10px;
+}
+.Contact_input {
+  margin-right: 10%;
+}

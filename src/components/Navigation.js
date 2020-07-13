@@ -19,11 +19,13 @@ const Navigation = props => {
     <div className="NavBar">
       <Navbar color="faded" light>
         <NavbarToggler onClick={toggleNavbar} className="nav-2" />
+        <a href="#/">
         <img src={companyLogo} alt="BrandName" />
+        </a>
         <Collapse isOpen={!collapsed} navbar>
           <Nav navbar>
             <NavItem>
-              <NavLink href="/">HOME</NavLink>
+              <NavLink href="#/">HOME</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="#/LOONCUP">LOONCUP</NavLink>
